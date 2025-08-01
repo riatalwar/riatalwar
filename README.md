@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 I am a computer science student at Johns Hopkins University who loves building creative projects!
 - 🔭 I’m currently an intern at Silk Shopping, working on web and mobile development to build new product features
-- 👩‍💻 I'm a member of Hopkins's ACM executive board and currently developing their new [website](https://github.com/jhuacmofficers/Website)
+- 👩🏽‍💻 I'm the software development lead for Match Point League, building a better way for tennis and pickleball players to connect, compete, and form community.
+- 💻 I'm a member of Hopkins's ACM executive board and currently developing their new [website](https://github.com/jhuacmofficers/Website)
 - 📋 My most recent project is a Taiwainese language translation [app](https://bobaway.org), where I worked on the database infrastructure and some new features to improve the user experience (check out the [repo](https://github.com/taliyah0x0/BobaWay))
