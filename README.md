@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 I am a computer science student at Johns Hopkins University, graduating Spring '27!
 - 🔭 I’m taking Information Retrieval and Intro Algorithms for the Spring '26 semester at Hopkins. Past courses include Artificial Intelligence, Full-Stack Javascript, and Mathematical Foundations of Computer Science
 - 👩🏽‍🏫 At Hopkins, I am also a course assistant for Data Structures (601.226), helping to grade, host office hours, and otherwise assist students
-- 👩🏽‍💻 I'm a software engineer research assistant as part of the Hopkins Sports Analytics Research Group
-- 💻 I'm a member of Hopkins's ACM executive board and contributor to our [website](https://github.com/jhuacmofficers/Website)
+- 💻 I'm a member of Hopkins's ACM executive board and contributor to our [website](https://www.jhuacm.com/)
 - 📋 My most recent side project is a Taiwainese language translation [app](https://bobaway.org), where I worked on the database infrastructure and some new features to improve the user experience (check out the [repo](https://github.com/taliyah0x0/BobaWay))
