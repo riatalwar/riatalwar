@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I am a computer science student at Johns Hopkins University, graduating Spring '27!
-- 🔭 I’m taking Information Retrieval and Intro Algorithms for the Spring '26 semester at Hopkins. Past courses include Artificial Intelligence, Full-Stack Javascript, and Mathematical Foundations of Computer Science
-- 👩🏽‍🏫 At Hopkins, I am also a course assistant for Data Structures (601.226), helping to grade, host office hours, and otherwise assist students
+- 🔭 I’m taking Machine Learning: Deep Learning, Computer Networks, and Software System Design for the Fall '26 semester at Hopkins. Past courses include Artificial Intelligence, Information Retrieval, and AI-Enabled Software Engineering
+- 👩🏽‍🏫 At Hopkins, I am also the head course assistant for Data Structures (601.226), helping to grade, host office hours, and otherwise assist students
 - 💻 I'm a member of Hopkins's ACM executive board and contributor to our [website](https://www.jhuacm.com/)
-- 📋 My most recent side project is a Taiwainese language translation [app](https://bobaway.org), where I worked on the database infrastructure and some new features to improve the user experience (check out the [repo](https://github.com/taliyah0x0/BobaWay))
+- 📋 Most recently, I interned at Glean Technologies, working on Code Writer, an AI coding assistant, and MCP tool call efficiency
